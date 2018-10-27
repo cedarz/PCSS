@@ -10,9 +10,6 @@
 [submodule ".\\libs\\anttweakbar"]
 	path = .\\libs\\anttweakbar
 	url = https://github.com/mikeseven/anttweakbar
-[submodule "lib/glad"]
-	path = lib/glad
-	url = https://github.com/Dav1dde/glad
 [submodule "libs/glad"]
 	path = libs/glad
 	url = https://github.com/Dav1dde/glad
