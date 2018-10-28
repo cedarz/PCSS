@@ -7,9 +7,6 @@
 [submodule ".\\libs\\soil"]
 	path = .\\libs\\soil
 	url = https://github.com/kbranigan/Simple-OpenGL-Image-Library
-[submodule ".\\libs\\anttweakbar"]
-	path = .\\libs\\anttweakbar
-	url = https://github.com/mikeseven/anttweakbar
 [submodule "libs/glad"]
 	path = libs/glad
 	url = https://github.com/Dav1dde/glad
