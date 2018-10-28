@@ -13,6 +13,6 @@
 [submodule "libs/glfw"]
 	path = libs/glfw
 	url = https://github.com/glfw/glfw
-[submodule "Simple-OpenGL-Image-Library"]
-	path = Simple-OpenGL-Image-Library
+[submodule "libs/soil"]
+	path = libs/soil
 	url = https://github.com/kbranigan/Simple-OpenGL-Image-Library
